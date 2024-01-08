@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the **Fitness App**, your ultimate gym workout companion! This application is designed to enhance your fitness journey by providing a comprehensive exercise database sourced from RapidAPI and seamless access to YouTube tutorials. Built with React, Emotion, and Material-UI, this app ensures a user-friendly and visually appealing experience.
+Welcome to the **GymMate**, your ultimate gym workout companion! This application is designed to enhance your fitness journey by providing a comprehensive exercise database sourced from RapidAPI and seamless access to YouTube tutorials. Built with React, Emotion, and Material-UI, this app ensures a user-friendly and visually appealing experience.
 
 ## Features
 
