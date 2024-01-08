@@ -1,0 +1,25 @@
+.exercise-card {
+    display: block;
+    text-decoration: none;
+    color: #000;
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 10px;
+    transition: transform 0.3s ease-in-out;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .exercise-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .card-button {
+    margin-left: 21px;
+    color: #fff;
+    font-size: 14px;
+    border-radius: 20px;
+    text-transform: capitalize;
+    padding: 8px 16px;
+  }
+  
